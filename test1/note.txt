@@ -1,0 +1,3 @@
+Third commit? What third commit are you speaking about?
+
+Testing interactive rebase for deleting wrong commit not pushed yet.
