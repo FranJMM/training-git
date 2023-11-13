@@ -2,3 +2,4 @@ Fichero subido a develop tras rebasear
 Lorem Ipsum
 Lore Ipsum
 Dummy change for release/0.2
+Dummy change for release/0.4
