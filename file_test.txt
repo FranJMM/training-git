@@ -3,3 +3,4 @@ Lorem Ipsum
 Lore Ipsum
 Dummy change for release/0.2
 Dummy change for release/0.4
+Dummy change for release/0.5
